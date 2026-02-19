@@ -1,0 +1,18 @@
+# Python caches
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Data Files (JANGAN UPLOAD DATA MENTAH)
+*.csv
+*.xlsx
+*.xls
+
+# Output Images
+*.png
+*.jpg
+*.pdf
+
+# System files
+.DS_Store
+Thumbs.db
